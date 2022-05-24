@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Testttt <code>src/App.js</code> and save to reload.
+          Berk Bozok
         </p>
       
       </header>
