@@ -6,9 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         
-        <p>
-          Berk Bozok
-        </p>
+      <div class="title">
+ <h1> Berk Bozok</h1>
+
+ <a target="_blank" href="http://codepen.io/Moslim/" class="white-mode">OTHER PENS</a>
+</div>
       
       </header>
     </div>
