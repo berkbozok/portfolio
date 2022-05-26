@@ -9,7 +9,7 @@ function App() {
       <div class="title">
  <h1> Berk Bozok</h1>
 
- <a target="_blank" href="http://codepen.io/Moslim/" class="white-mode">OTHER PENS</a>
+ <a target="_blank" href="http://codepen.io/Moslim/" class="white-mode">Github</a>
 </div>
       
       </header>
