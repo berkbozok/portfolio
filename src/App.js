@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import './App.scss';
+import './SocialButton.scss';
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
     <h1> Berk Bozok</h1>
         <li><a href="#"><i class="fa fa-instagram"></i></a></li>
         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/berk-bozok-512998168/"><i class="fa fa-linkedin"></i></a></li>
         <li><a href="#"><i class="fa fa-codepen"></i></a></li>
     </ul>
     </div>
