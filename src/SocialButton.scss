@@ -2,7 +2,7 @@
 
 $timing        : 265ms;
 $iconColor     : #00B5F5;
-$accent        : #002A8F;
+$accent        : orange;
 $bluefade      : #0043E0;
 $gradient      : #00B5F5;
 
@@ -38,8 +38,8 @@ body {
     i {
         color: #fff;
         position: absolute;
-        top: 15px;
-        left: 15px;
+        top: 16px;
+        left: 17px;
         transition: all $timing ease-out;
     }
 
