@@ -3,6 +3,7 @@ import './App.css';
 import './SocialButton.scss';
 import Linkedin from './components/Linkedin';
 import Github from './components/Github';
+import Facebook from './components/Facebook';
 
 const App = () => {
   return (
@@ -16,8 +17,7 @@ const App = () => {
           <div class="social-container">
             <ul class="social-icons">
               <h1> Berk Bozok</h1>
-              <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+              <li><Facebook/></li>
               <li><Linkedin /></li>
               <li><Github/></li>
               <li><a href="#"><i class="fa fa-info"></i></a></li>
