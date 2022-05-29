@@ -4,19 +4,17 @@ import './SocialButton.scss';
 import Linkedin from './components/Linkedin';
 import Github from './components/Github';
 import Facebook from './components/Facebook';
+import Name from './components/Name';
 
 const App = () => {
   return (
-    <div className="App">
       <header className="App-header">
 
         <div class="title">
 
-
-
           <div class="social-container">
             <ul class="social-icons">
-              <h1> Berk Bozok</h1>
+              <Name/>
               <li><Facebook/></li>
               <li><Linkedin /></li>
               <li><Github/></li>
@@ -28,7 +26,7 @@ const App = () => {
         </div>
 
       </header>
-    </div>
+    
   );
 }
 
