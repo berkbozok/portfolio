@@ -24,7 +24,7 @@ const App = () => {
             </ul>
           </div>
 
-          <a target="_blank" href="https://github.com/berkbozok" class="white-mode">Github</a>
+         
         </div>
 
       </header>
