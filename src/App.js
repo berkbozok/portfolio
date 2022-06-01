@@ -20,7 +20,7 @@ const App = () => {
         <div class="title">
 
           <div class="social-container">
-            
+          
             <ul class="social-icons">
        
               <Name/>
@@ -34,6 +34,9 @@ const App = () => {
 
          
         </div>
+        <button class="more-button">
+          <div></div>
+          </button>
 
       </header>
     
