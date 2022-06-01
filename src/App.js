@@ -34,9 +34,10 @@ const App = () => {
 
          
         </div>
-        <button class="more-button">
+        
+        <button class="more-button" onclick="https://github.com/berkbozok/login-demo">
           <div></div>
-          </button>
+          </button >
 
       </header>
     
