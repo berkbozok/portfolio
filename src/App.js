@@ -27,7 +27,7 @@ const App = () => {
               <li><Facebook/></li>
               <li><Linkedin /></li>
               <li><Github/></li>
-              <li><a href="#"><i class="fa fa-info"></i></a></li>
+              <li><Info/></li>
             </ul>
             
           </div>
