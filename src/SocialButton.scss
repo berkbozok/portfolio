@@ -50,8 +50,8 @@ body {
         &:before {
             @include transformScale();
             content: " ";
-            width: 65px;
-            height: 65px;
+            width: 60px;
+            height: 60px;
             border-radius: 100%;
             display: block;
             background: linear-gradient(45deg, $iconColor, $accent);
