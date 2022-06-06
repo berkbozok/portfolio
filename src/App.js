@@ -19,8 +19,14 @@ const App = () => {
 <nav class="social">
           
       </nav>
-
-       <TitleAndButton/>
+      <ul class="social-icons">
+       
+       <Name/>
+       <li><Facebook/></li>
+       <li><Linkedin /></li>
+       <li><Github/></li>
+       <li><Info/></li>
+     </ul>
         
         <button class="more-button" onclick="https://github.com/berkbozok/login-demo">
           <div></div>
