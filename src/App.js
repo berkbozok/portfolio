@@ -7,6 +7,7 @@ import Facebook from './components/Facebook';
 import Name from './components/Name';
 import Sidebar from './components/Sidebar';
 import Info from './components/Info';
+import List from './components/List';
 
 
 const App = () => {
@@ -22,14 +23,7 @@ const App = () => {
 
           <div class="social-container">
           
-            <ul class="social-icons">
-       
-              <Name/>
-              <li><Facebook/></li>
-              <li><Linkedin /></li>
-              <li><Github/></li>
-              <li><Info/></li>
-            </ul>
+            <List/>
             
           </div>
 
