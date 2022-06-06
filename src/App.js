@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import './SocialButton.scss';
 import Linkedin from './components/Linkedin';
@@ -8,6 +8,7 @@ import Name from './components/Name';
 import Sidebar from './components/Sidebar';
 import Info from './components/Info';
 import List from './components/List';
+import TitleAndButton from './components/TitleAndButton';
 
 
 const App = () => {
@@ -19,16 +20,7 @@ const App = () => {
           
       </nav>
 
-        <div class="title">
-
-          <div class="social-container">
-          
-            <List/>
-            
-          </div>
-
-         
-        </div>
+       <TitleAndButton/>
         
         <button class="more-button" onclick="https://github.com/berkbozok/login-demo">
           <div></div>
