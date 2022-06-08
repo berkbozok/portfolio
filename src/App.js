@@ -19,6 +19,7 @@ const App = () => {
 <nav class="social">
           
       </nav>
+      <Name/>
       <ul class="social-icons">
        
        <Name/>
