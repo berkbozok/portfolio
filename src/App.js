@@ -13,27 +13,27 @@ import TitleAndButton from './components/TitleAndButton';
 
 const App = () => {
   return (
-    
-      <header className="App-header">
-             
-<nav class="social">
-          
+
+    <header className="App-header">
+
+      <nav class="social">
+
       </nav>
       <ul class="social-icons">
-       
-       <Name/>
-       <li><Facebook/></li>
-       <li><Linkedin /></li>
-       <li><Github/></li>
-       <li><Info/></li>
-     </ul>
-        
-        <button class="more-button" onclick="https://github.com/berkbozok/login-demo">
-          <div></div>
-          </button >
 
-      </header>
-    
+        <Name />
+        <li><Facebook /></li>
+        <li><Linkedin /></li>
+        <li><Github /></li>
+        <li><Info /></li>
+      </ul>
+
+      <button class="more-button" onclick="https://github.com/berkbozok/login-demo">
+        <div></div>
+      </button >
+
+    </header>
+
   );
 }
 
