@@ -1,4 +1,3 @@
-
 import './App.css';
 import './SocialButton.scss';
 import Linkedin from './components/Linkedin';
