@@ -11,12 +11,12 @@ function List() {
         <>  
         <ul class="social-icons">
        
-       <Name/>
-       <li><Facebook/></li>
-       <li><Linkedin /></li>
-       <li><Github/></li>
-       <li><Info/></li>
-     </ul>
+        <Name/>
+          <li><Facebook/></li>
+          <li><Linkedin /></li>
+          <li><Github/></li>
+          <li><Info/></li>
+       </ul>
         </>
     );
   }
