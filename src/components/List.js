@@ -10,8 +10,7 @@ function List() {
     return (
         <>  
         <ul class="social-icons">
-       
-        <Name/>
+          <Name/>
           <li><Facebook/></li>
           <li><Linkedin /></li>
           <li><Github/></li>
