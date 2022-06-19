@@ -20,11 +20,12 @@ const App = () => {
       </nav>
       <ul class="social-icons">
 
-        <Name />
+        <Name/>
         <li><Facebook /></li>
         <li><Linkedin /></li>
         <li><Github /></li>
         <li><Info /></li>
+        
       </ul>
 
       <button class="more-button" onclick="https://github.com/berkbozok/login-demo">
