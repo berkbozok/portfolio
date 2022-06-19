@@ -1,5 +1,4 @@
 .App-header {
-
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -8,6 +7,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
 body {
   background-image: url('https://i.imgur.com/oyF03zz.jpg');
   background-position: center;
@@ -26,7 +26,6 @@ body {
 }
 
 @import url('https://fonts.googleapis.com/css?family=Cairo');
-
 
 .title {
 	font-family: "Cairo";
@@ -132,7 +131,6 @@ a {
 	background: #ffffff;
 	transform: rotate(0deg);
   }
-  
 
   .more-button {
 
@@ -150,10 +148,9 @@ a {
 	box-shadow: 0 10px 20px -5px #94a6af;
 	overflow: hidden;
   }
-
   
   .more-button:before,
-.more-button:after {
+  .more-button:after {
   content: "";
   position: absolute;
   top: 0;
