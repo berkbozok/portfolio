@@ -1,7 +1,9 @@
 import './App.css';
 import './SocialButton.scss';
-
 import Name from './components/Name';
+
+
+
 
 
 const App = () => {
