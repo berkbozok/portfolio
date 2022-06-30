@@ -3,9 +3,6 @@ import './SocialButton.scss';
 import Name from './components/Name';
 
 
-
-
-
 const App = () => {
   return (
 
@@ -14,7 +11,7 @@ const App = () => {
       
       <Name/>
 
-      
+
     </header>
 
   );
