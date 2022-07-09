@@ -7,7 +7,9 @@ const App = () => {
   return (
 
     <header className="App-header">
+
       <Name/>
+      
     </header>
 
   );
